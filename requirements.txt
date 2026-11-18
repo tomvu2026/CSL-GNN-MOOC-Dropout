@@ -1,0 +1,8 @@
+# versions used for the paper (Python 3.12, CUDA GPU with 24 GB)
+torch==2.14.0
+torch-geometric==2.8.0.post1
+numpy==2.5.1
+pandas==3.0.5
+pyarrow==25.0.1
+scikit-learn==1.9.1
+scipy==1.18.0
